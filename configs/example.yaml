@@ -1,0 +1,34 @@
+font:
+  name: ExampleAlphabet
+
+alphabet:
+  A: A.svg
+  B: B.svg
+  C: C.svg
+  D: D.svg
+  E: E.svg
+  F: F.svg
+  G: G.svg
+  H: H.svg
+  I: I.svg
+  J: J.svg
+  K: K.svg
+  L: L.svg
+  M: M.svg
+  N: N.svg
+  O: O.svg
+  P: P.svg
+  Q: Q.svg
+  R: R.svg
+  S: S.svg
+  T: T.svg
+  U: U.svg
+  V: V.svg
+  W: W.svg
+  X: X.svg
+  Y: Y.svg
+  Z: Z.svg
+
+options:
+  preserve_digits: true
+  preserve_punctuation: true
