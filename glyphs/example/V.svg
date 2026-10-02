@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1000"
+     height="1000"
+     viewBox="0 0 1000 1000">
+  <path
+    d="M 150 150
+       L 330 150
+       L 500 650
+       L 670 150
+       L 850 150
+       L 590 850
+       L 410 850
+       Z"
+    fill="black"/>
+</svg>
